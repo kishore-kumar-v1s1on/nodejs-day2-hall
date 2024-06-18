@@ -1,3 +1,3 @@
-Rooms-details : http://localhost:9000/hall/details
-Room with booked data : http://localhost:9000/booked/halls
-customer with booked data :http://localhost:9000/customer/details
+Rooms-details : http://nodejs-day2-hall.onrender.com/hall/details 
+Room with booked data : http://nodejs-day2-hall.onrender.com/booked/halls 
+customer with booked data :http://nodejs-day2-hall.onrender.com/customer/details
